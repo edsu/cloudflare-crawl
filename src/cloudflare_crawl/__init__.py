@@ -12,8 +12,8 @@ from requests.adapters import HTTPAdapter, Retry
 
 # load environment variables
 dotenv.load_dotenv()
-token = os.environ['CLOUDFRONT_TOKEN']
-account_id = os.environ['CLOUDFRONT_ACCOUNT_ID']
+token = os.environ.get('CLOUDFRONT_TOKEN')
+account_id = os.environ.get('CLOUDFRONT_ACCOUNT_ID')
 headers = {"Authorization": f"Bearer {token}"}
 
 # set up http client, with retries for 401 which have been observed
@@ -37,6 +37,11 @@ def crawl(
     Start a crawl for a website URL, wait for it to be completed and then
     download the data.
     """
+
+    if token is None or account_id is None:
+        print("Please set CLOUDFRONT_ACCOUNT_ID and CLOUDFRONT_TOKEN environment variables")
+        return
+
     job_id = start_crawl(url)
     print(f"created job {job_id}")
 
