@@ -1,0 +1,2593 @@
+{
+  "success": true,
+  "result": {
+    "id": "2290404c-a9c2-41a2-b753-89944e7d9a39",
+    "status": "completed",
+    "browserSecondsUsed": 1147.5211687011722,
+    "total": 1970,
+    "finished": 1970,
+    "skipped": 7217,
+    "records": [
+      {
+        "url": "http://www.openarchives.org/pipermail/oai-general/2007-November/000480.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.openarchives.org/ore/documents/CompoundObjects-200705.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.openarchives.org/ore/documents/OAI-ORE%20TC%20Meeting%20200705_public.pdf",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ctwatch.org/quarterly/articles/2007/08/interoperability-for-the-discovery-use-and-re-use-of-units-of-scholarly-communication",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.openarchives.org/ore/ORE_Community.php",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Content_negotiation",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.mail-archive.com/code4lib%40listserv.nd.edu/msg02060.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ctwatch.org/quarterly/articles/2007/08/interoperability-for-the-discovery-use-and-re-use-of-units-of-scholarly-communication/6/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.w3.org/DesignIssues/HTTP-URI2",
+        "status": "skipped"
+      },
+      {
+        "url": "http://docs.google.com/View?docid=ajch7tkjqjwz_23g8dfzc&pli=1",
+        "status": "skipped"
+      },
+      {
+        "url": "http://flickr.com/photos/inkdroid/1808726129/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.inkdroid.org/journal/2007/10/18/tools-2/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://memory.loc.gov/cgi-bin/query/r?ammem/fawbib:@field(DOCID+@lit(apc0042))",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.nytimes.com/2007/10/18/technology/18world.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.worlddigitallibrary.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.djangoproject.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.postgresql.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://jquery.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://tilecache.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://trac.edgewall.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.vmware.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://inkdroid.org/svn/marcdb/trunk/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://cheeseshop.python.org/pypi/marcdb",
+        "status": "skipped"
+      },
+      {
+        "url": "http://inkdroid.org/svn/marcdb/trunk/README",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.sqlalchemy.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://elixir.ematia.de/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://inkdroid.org/svn/marcdb/trunk/marcdb/models.py",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/marc/authority/ecadtref.html#mrcasimp",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/marc/authority/ecadalso.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://groups.google.com/group/bibliographic-ontology-specification-group/browse_frm/thread/80937796903dd62b",
+        "status": "skipped"
+      },
+      {
+        "url": "http://inkdroid.org/data/identity-foaf.xsl ",
+        "status": "skipped"
+      },
+      {
+        "url": "http://orlabs.oclc.org/Identities/key/lccn-no99-10609",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.libraryjournal.com/blog/1090000309/post/1630014963.html?nid=3565",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20091114013754/http://www.oclc.org:80/research/researchworks",
+        "status": "skipped"
+      },
+      {
+        "url": "https://inkdroid.org/tag/worldcat",
+        "status": "completed",
+        "metadata": {
+          "status": 200,
+          "title": "inkdroid",
+          "url": "https://inkdroid.org/tag/worldcat/",
+          "lastModified": "Sun, 08 Mar 2026 05:01:01 GMT"
+        },
+        "html": "<!DOCTYPE html><html xmlns:og=\"http://opengraphprotocol.org/schema/\"><head>\n  <meta charset=\"utf-8\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"fediverse:creator\" content=\"@ed@digipres.club\">\n\n  <title>inkdroid</title>\n  \n  \n  \n  <link rel=\"stylesheet\" href=\"/css/main.css\">\n  <link rel=\"stylesheet\" href=\"/css/highlight.css\">\n  <link rel=\"stylesheet\" href=\"/css/webmention.css\">\n  <link rel=\"canonical\" href=\"https://inkdroid.org/tag/worldcat/\">\n  <link rel=\"alternate\" type=\"application/rss+xml\" title=\"inkdroid\" href=\"https://inkdroid.org/feed.xml\">\n  <link rel=\"pingback\" href=\"https://webmention.io/inkdroid.org/xmlrpc\">\n  <link rel=\"webmention\" href=\"https://webmention.io/inkdroid.org/webmention\">\n  <link rel=\"me\" href=\"https://merveilles.town/@ink\">\n  <link rel=\"me\" href=\"https://digipres.club/@ed\">\n  <script async=\"\" src=\"/js/webmention.min.js\" data-page-url=\"https://inkdroid.org/tag/worldcat/\"></script>\n  <script defer=\"\" data-domain=\"inkdroid.org\" src=\"https://plausible.io/js/plausible.js\"></script>\n</head>\n\n\n  <body>\n\n    <nav id=\"page-header\" class=\"navbar navbar-expand-lg\" role=\"navigation\">\n  <div class=\"container-fluid\">\n    <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse-menu\" aria-controls=\"#collapse-menu\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n      <span class=\"navbar-toggler-icon\"></span>\n    </button>\n    <div class=\"collapse navbar-collapse justify-content-center\" id=\"collapse-menu\">\n      <ul class=\"navbar-nav mb-2 mb-lg-0\">\n        <li title=\"Go back home!\" class=\"nav-item\"><a class=\"nav-link\" href=\"/\">\ud83c\udfe1</a></li>\n        <li title=\"About this website\" class=\"nav-item\"><a class=\"nav-link\" href=\"/about/\">\u2753</a></li>\n        <li title=\"Tags used on this website\" class=\"nav-item\"><a class=\"nav-link\" href=\"/tags/\">\ud83c\udff7\ufe0f</a></li>\n        <li title=\"Photos at Flickr\" class=\"nav-item\"><a class=\"nav-link\" rel=\"me\" href=\"https://www.flickr.com/photos/inkdroid\">\ud83d\udcf8</a></li>\n        <li title=\"Github profile\" class=\"nav-item\"><a class=\"nav-link\" rel=\"me\" href=\"https://github.com/edsu\">\ud83e\uddd1\u200d\ud83d\udcbb</a></li>\n        <li title=\"Mastodon marveiles.town\" class=\"nav-item\"><a class=\"nav-link\" rel=\"me\" href=\"https://merveilles.town/@ink\">\ud83d\udc65</a></li>\n        <li title=\"Professional talks\" class=\"nav-item\"><a class=\"nav-link\" href=\"/talks/\">\ud83d\udcac</a></li>\n        <li title=\"Email address\" class=\"nav-item\"><a class=\"nav-link\" href=\"mailto:ehs@pobox.com\">\u2709\ufe0f</a></li>\n        <li title=\"CV\" class=\"nav-item\"><a class=\"nav-link\" href=\"/ehs/\">\ud83d\udcbc</a></li>\n        <li title=\"Podcasts\" class=\"nav-item\"><a class=\"nav-link\" href=\"/podcasts/feed.opml\">\ud83c\udfa7</a></li>\n        <li title=\"Support\" class=\"nav-item\"><a class=\"nav-link\" href=\"/support/\">\ud83d\udc9a</a></li>\n        <li title=\"RSS Feed\" class=\"nav-item\"><a class=\"nav-link\" rel=\"alternate\" href=\"/feed.xml\"><img height=\"20\" alt=\"Feed\" src=\"/images/feed.png\"></a>\n      </li></ul>\n    </div>\n  </div>\n</nav>\n\n\n    <div id=\"page-content\" class=\"container\">\n      <div class=\"col-md-8 offset-md-2\">\n        <header class=\"post-header\">\n  <h2 class=\"post-title\">worldcat</h2>\n</header>\n\n<ul class=\"post-list\">\n  \n    <li>\n      <span class=\"post-meta\">September 26, 2007</span>\n      <br>\n      <a class=\"post-link\" href=\"/2007/09/26/oclc-deserves-some-rest/\">OCLC deserves some REST</a>\n    </li>\n  \n    <li>\n      <span class=\"post-meta\">February 19, 2007</span>\n      <br>\n      <a class=\"post-link\" href=\"/2007/02/19/oclc-registry/\">oclc registry</a>\n    </li>\n  \n    <li>\n      <span class=\"post-meta\">August 19, 2005</span>\n      <br>\n      <a class=\"post-link\" href=\"/2005/08/19/a-tale-of-two-searches/\">A Tale of Two Searches</a>\n    </li>\n  \n</ul>\n\n      </div>\n    </div>\n\n    <footer id=\"page-footer\">\n  <div class=\"container-fluid\">\n  <p class=\"text-center\">\n    Unless otherwise noted all the content here is licensed <a rel=\"license\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY</a>\n  </p>\n  <script src=\"/js/jquery.min.js\"></script>\n  <script src=\"/js/bootstrap.min.js\"></script>\n  <script src=\"/js/highlight.min.js\"></script>\n  <script src=\"/js/welcome.min.js\"></script>\n  <script>\n    hljs.initHighlightingOnLoad();\n  </script>\n  </div>\n</footer>\n\n\n  \n\n\n</body></html>",
+        "markdown": "* [\ud83c\udfe1](/)\n* [\u2753](https://inkdroid.org/tag/worldcat/about/)\n* [\ud83c\udff7\ufe0f](https://inkdroid.org/tag/worldcat/tags/)\n* [\ud83d\udcf8](https://www.flickr.com/photos/inkdroid)\n* [\ud83e\uddd1\u200d\ud83d\udcbb](https://github.com/edsu)\n* [\ud83d\udc65](https://merveilles.town/@ink)\n* [\ud83d\udcac](https://inkdroid.org/tag/worldcat/talks/)\n* [\u2709\ufe0f](mailto:ehs@pobox.com)\n* [\ud83d\udcbc](https://inkdroid.org/tag/worldcat/ehs/)\n* [\ud83c\udfa7](https://inkdroid.org/tag/worldcat/podcasts/feed.opml)\n* [\ud83d\udc9a](https://inkdroid.org/tag/worldcat/support/)\n* [![Feed](https://inkdroid.org/tag/worldcat/images/feed.png)](/feed.xml)\n\n## worldcat\n\n* September 26, 2007  \n[OCLC deserves some REST](https://inkdroid.org/tag/worldcat/2007/09/26/oclc-deserves-some-rest/)\n* February 19, 2007  \n[oclc registry](https://inkdroid.org/tag/worldcat/2007/02/19/oclc-registry/)\n* August 19, 2005  \n[A Tale of Two Searches](https://inkdroid.org/tag/worldcat/2005/08/19/a-tale-of-two-searches/)\n\n Unless otherwise noted all the content here is licensed [CC-BY](https://creativecommons.org/licenses/by/4.0/) "
+      },
+      {
+        "url": "http://www.python.org/pypi/pymarc/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.panix.com/~asl2",
+        "status": "skipped"
+      },
+      {
+        "url": "http://thesecretmirror.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.panix.com/~asl2/software/PyZ3950/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://cpan.org/MARC-Charset",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oreilly.com/catalog/9780596510046/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070617063746/http://books.code4lib.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://efoundations.typepad.com/efoundations/2007/07/putting-them-wi.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ukoln.ac.uk/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ukoln.ac.uk/repositories/digirep/index/SWORD_APP_Profile_0.4",
+        "status": "skipped"
+      },
+      {
+        "url": "http://tools.ietf.org/id/draft-ietf-atompub-protocol-17.txt",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.xml.com/pub/a/2006/07/19/implementing-atom-publishing-protocol-python-wsgi.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ukoln.ac.uk/repositories/digirep/index/SWORD_APP_Profile_0.4#SWORD_Extensions_to_the_APP",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ukoln.ac.uk/repositories/digirep/index/SWORD_APP_Profile_0.4#5._Protocol_Operations",
+        "status": "skipped"
+      },
+      {
+        "url": "https://arl.org/lists/sparc-oaforum/Message/3858.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oclc.org/news/releases/200669.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://zepheira.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.inkdroid.org/journal/2007/05/31/angelas-dilemma/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.w3.org/People/EM/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.w3.org/2001/tag/doc/httpRange-14/2007-05-31/HttpRange-14",
+        "status": "skipped"
+      },
+      {
+        "url": "http://outgoing.typepad.com/outgoing/2007/07/purl2.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.rubygems.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://rubyforge.org/users/jaron/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20090618073317/http://chopine.be:80/lrz/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://rubyforge.org/projects/ruby-zoom/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.indexdata.dk/yaz/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://rubyforge.org/projects/ruby-marc",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/z3950/agency/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://ontoworld.org/wiki/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://meta.wikimedia.org/wiki/Semantic_MediaWiki",
+        "status": "skipped"
+      },
+      {
+        "url": "http://ontoworld.org/wiki/Special:URIResolver/Ruby",
+        "status": "skipped"
+      },
+      {
+        "url": "http://info-uri.info",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.w3.org/TR/webarch/#representation-management",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/dist/marc-charset/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.mail-archive.com/perl4lib%40perl.org/msg01143.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/marc/specifications/speccharmarc8.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/marc/specifications/codetables.xml",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.frbr.org/2007/05/01/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20071008115318/http://www.niso.org/standards/resources/Z39-2.pdf",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/Everything-Miscellaneous-Power-Digital-Disorder/dp/0805080430",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.youtube.com/watch?v=WHeta_YZ0oE",
+        "status": "skipped"
+      },
+      {
+        "url": "http://video.google.com/videofeed?type=search&q=type%3Agoogle+engEDU&so=1&num=20&output=rss",
+        "status": "skipped"
+      },
+      {
+        "url": "http://isegserv.itd.rl.ac.uk/blogs/alistair/archives/53",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.collectionscanada.ca/jsc/rda.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20100805202110/http://www.loc.gov/cds/FRBR.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dublincore.org/documents/2007/04/02/abstract-model/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://vocab.org/frbr/core",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080607150822/http://www.bl.uk:80/services/bibliographic/meeting.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://textualize.com/pymarc",
+        "status": "skipped"
+      },
+      {
+        "url": "http://peak.telecommunity.com/DevCenter/setuptools",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.python.org/pypi",
+        "status": "skipped"
+      },
+      {
+        "url": "http://peak.telecommunity.com/DevCenter/EasyInstall",
+        "status": "skipped"
+      },
+      {
+        "url": "http://naked.dustindiaz.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/Agile-Software-Development-Cooperative-Game/dp/0321482751",
+        "status": "skipped"
+      },
+      {
+        "url": "http://ec2.images-amazon.com/images/P/0321482751.01._AA240_SCLZZZZZZZ_.jpg",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Peter_Naur",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080612143832/http://www.zafar.se:80/bkz/Articles/NaurProgrammingTheory",
+        "status": "skipped"
+      },
+      {
+        "url": "http://notes-on-haskell.blogspot.com/2007/03/haskell-cooks-tour.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://notes-on-haskell.blogspot.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.jiscmail.ac.uk/archives/jisc-repositories.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.publicaccesstoresearch.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ec-petition.eu/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.taxpayeraccess.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://ala.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://acrl.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Open_access",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.delange.rice.edu/conferenceVI.cfm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Kahle",
+        "status": "skipped"
+      },
+      {
+        "url": "http://webcast.rice.edu/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://webcast.rice.edu/index.php?action=details&event=927",
+        "status": "skipped"
+      },
+      {
+        "url": "http://webcast.rice.edu/webcast.php?action=details&event=919",
+        "status": "skipped"
+      },
+      {
+        "url": "http://worldcat.org/registry/Institutions",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/standards/sru/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://worldcat.org/registry/Institutions/89073",
+        "status": "skipped"
+      },
+      {
+        "url": "http://worldcat.org/webservices/registry/content/Institutions/89073",
+        "status": "skipped"
+      },
+      {
+        "url": "http://efoundations.typepad.com/efoundations/2007/02/worldcat_instit.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://simile.mit.edu/exhibit",
+        "status": "skipped"
+      },
+      {
+        "url": "http://simile.mit.edu/exhibit/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://simile.mit.edu/wiki/Exhibit/Getting_Started_Tutorial",
+        "status": "skipped"
+      },
+      {
+        "url": "http://del.icio.us/feeds/json/inkdroid/metadata?raw=1&count=100",
+        "status": "skipped"
+      },
+      {
+        "url": "http://cheeseshop.python.org/pypi/simplejson",
+        "status": "skipped"
+      },
+      {
+        "url": "http://simile.mit.edu/mail/ReadMsg?listName=General&msgId=14474",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070321011919/http://simile.mit.edu:80/mail/ReadMsg?listName=General&msgId=14476",
+        "status": "skipped"
+      },
+      {
+        "url": "http://ecmanaut.blogspot.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://simile.mit.edu/mail/BrowseList?listName=General&from=10038&to=10038&count=100&by=thread&paged=false&by=date",
+        "status": "skipped"
+      },
+      {
+        "url": "https://inkdroid.org/exhibit/delicious/delicious.json",
+        "status": "errored",
+        "metadata": {
+          "status": 404,
+          "title": "404 Not Found",
+          "url": "https://inkdroid.org/exhibit/delicious/delicious.json",
+          "lastModified": ""
+        },
+        "markdown": "# Not Found\n\nThe requested URL was not found on this server.\n\n---\n\nApache/2.4.66 (Debian) Server at inkdroid.org Port 443",
+        "html": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\"><html><head>\n<title>404 Not Found</title>\n</head><body>\n<h1>Not Found</h1>\n<p>The requested URL was not found on this server.</p>\n<hr>\n<address>Apache/2.4.66 (Debian) Server at inkdroid.org Port 443</address>\n\n</body></html>"
+      },
+      {
+        "url": "https://inkdroid.org/exhibits/delicious",
+        "status": "errored",
+        "metadata": {
+          "status": 404,
+          "title": "404 Not Found",
+          "url": "https://inkdroid.org/exhibits/delicious",
+          "lastModified": ""
+        },
+        "html": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\"><html><head>\n<title>404 Not Found</title>\n</head><body>\n<h1>Not Found</h1>\n<p>The requested URL was not found on this server.</p>\n<hr>\n<address>Apache/2.4.66 (Debian) Server at inkdroid.org Port 443</address>\n\n</body></html>",
+        "markdown": "# Not Found\n\nThe requested URL was not found on this server.\n\n---\n\nApache/2.4.66 (Debian) Server at inkdroid.org Port 443"
+      },
+      {
+        "url": "http://75minutes.com/podcast/75-minutes-epilogue/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Iraq_War_troop_surge_of_2007",
+        "status": "skipped"
+      },
+      {
+        "url": "http://bitworking.org/news/URI_Templates",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070208032916/http://www.ietf.org:80/internet-drafts/draft-gregorio-uritemplate-00.txt",
+        "status": "skipped"
+      },
+      {
+        "url": "http://lists.w3.org/Archives/Public/uri/2006Nov/0048",
+        "status": "skipped"
+      },
+      {
+        "url": "http://lists.w3.org/Archives/Public/uri/2006Nov/0052",
+        "status": "skipped"
+      },
+      {
+        "url": "https://wadl.dev.java.net/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oup.com/oxforddnb",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oxforddnb.com/index/101031766",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oup.com/oxforddnb/info/index/browsing/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Authority_file",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Primary_key",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/catdir/pcc/naco/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.inkdroid.org/journal/2006/07/11/more-on-web-identifiers/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://alcme.oclc.org/laf/index.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/PURL",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Library_of_Congress_Control_Number",
+        "status": "skipped"
+      },
+      {
+        "url": "http://errol.oclc.org/laf/n79-7035",
+        "status": "skipped"
+      },
+      {
+        "url": "http://alcme.oclc.org/laf/servlet/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=n79-7035",
+        "status": "skipped"
+      },
+      {
+        "url": "http://alcme.oclc.org/laf/servlet/OAIHandler?verb=ListMetadataFormats&identifier=n79-7035",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/standards/marcxml/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://alcme.oclc.org/laf/servlet/OAIHandler?verb=GetRecord&metadataPrefix=marcxml&identifier=n79-7035",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/marc/authority/ecadhome.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://alcme.oclc.org/eprintsUK/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://textualize.com/trac/browser/panizzi/trunk/plugins/OCLC/plugin.py",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20100210093731/http://www.oclc.org:80/research/projects/viaf/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20110722013853/http://www.access2006.uottawa.ca/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070822080628/http://www.access2006.uottawa.ca/2006-10-14-03-hickeyt.mp3",
+        "status": "skipped"
+      },
+      {
+        "url": "http://barcamp.org/DemoCampDC1",
+        "status": "skipped"
+      },
+      {
+        "url": "http://barcamp.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://enterprise.linux.com/enterprise/06/12/04/1538214.shtml?tid=101",
+        "status": "skipped"
+      },
+      {
+        "url": "http://use.perl.org/~ziggy/journal/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20130502121736/http://open-ils.org/blog/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://code4lib.org/2007",
+        "status": "skipped"
+      },
+      {
+        "url": "http://news.bbc.co.uk/2/hi/technology/6194929.stm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.inkdroid.org/journal/bittorrent.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.reddwarf.co.uk/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.bbc.co.uk/doctorwho/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070124095318/http://www.latimes.com:80/news/nationworld/politics/la-na-libraries8dec08,0,5849200.story?",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080725135717/http://www.ala.org/ala/washoff/WOissues/governmentinfo/epalibraries/epalibraries.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://action.eff.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.miniature-earth.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://weblog.infoworld.com/udell/2006/12/01.html#a1570",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20090401160917/http://www.si.umich.edu:80/UMDL/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://moa.umdl.umich.edu",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.jstor.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/JSTOR-History-Roger-C-Schonfeld/dp/0691115311/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20100108122311/http://simile.mit.edu:80/mailman/listinfo/general",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/Ajax-in-Action-Dave-Crane/dp/1932394613",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080821140921/http://www.adaptivepath.com/publications/essays/archives/000385.php",
+        "status": "skipped"
+      },
+      {
+        "url": "http://safari.oreilly.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Mosaic_%28web_browser%29",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dilettantes.code4lib.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oclc.org/research/announcements/2006-09-28.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070319172523/http://umlaut.library.gatech.edu:80/umlaut",
+        "status": "skipped"
+      },
+      {
+        "url": "http://bookburro.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://ruby-lang.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://rubyonrails.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.textualize.com/sruby",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.textualize.com/ruby-oai",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.textualize.com/xisbn",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oclc.org/productworks/urlresolver.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://rubyforge.org/projects/oai/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://textualize.com/ruby-oai",
+        "status": "skipped"
+      },
+      {
+        "url": "http://rubyforge.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://libxml.rubyforge.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20090611182302/http://oregonstate.edu:80/~reeset/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://osulibrary.oregonstate.edu",
+        "status": "skipped"
+      },
+      {
+        "url": "http://ir.library.oregonstate.edu/dspace-oai/request",
+        "status": "skipped"
+      },
+      {
+        "url": "http://libeprints.open.ac.uk/perl/oai2",
+        "status": "skipped"
+      },
+      {
+        "url": "http://memory.loc.gov/cgi-bin/oai2_0",
+        "status": "skipped"
+      },
+      {
+        "url": "http://visual.verbaljazz.com/index.php?showimage=66",
+        "status": "skipped"
+      },
+      {
+        "url": "http://blog.ianbicking.org/why-small-packages-matter.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.cmcrossroads.com/bradapp/docs/demeter-intro.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://domaindrivendesign.org/books/index.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://pear.php.net",
+        "status": "skipped"
+      },
+      {
+        "url": "http://peak.telecommunity.com/DevCenter/PythonEggs",
+        "status": "skipped"
+      },
+      {
+        "url": "http://maven.apache.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.cliki.net/asdf ",
+        "status": "skipped"
+      },
+      {
+        "url": "http://trac.edgewall.org/wiki/TracDev/ComponentArchitecture",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20121027164843/http://wiki.rubyonrails.org/rails/pages/Plugins",
+        "status": "skipped"
+      },
+      {
+        "url": "http://drupal.org/project/Modules",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Big_Ball_Of_Mud",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080516135520/http://radar.oreilly.com/archives/2005/04/designing_from.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://ecorrado.us",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.istl.org/05-spring/article2.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070712091701/http://osc.gigavox.com/shows/detail1222.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://danesecooper.blogs.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.opensource.org/osr/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.unicode.org/book/bookform.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.lackoftalent.org/michael/blog/2006/09/11/mission-haiku-or-memetic-conformity/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ibiblio.org/bess/?p=42",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080720181359/http://cavlec.yarinareth.net/archives/2006/09/07/mission-haiku/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20081121003554/http://weblog.kevinclarke.info/2006/09/11/mission-haiku/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20100711134958/http://rochellejustrochelle.typepad.com/copilot/2006/09/exercise_missio.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.onebiglibrary.net/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://digitallibrarian.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.wallandbinkley.com/quaedam/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://purl.org/net/leftwing/blog",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.tbray.org/ongoing/When/200x/2006/07/28/Open-Data",
+        "status": "skipped"
+      },
+      {
+        "url": "http://canarydatabase.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.liveclipboard.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://microformats.org/wiki/citation",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.w3.org/2004/01/rdxh/spec",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/OpenURL",
+        "status": "skipped"
+      },
+      {
+        "url": "http://ocoins.info/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://q6.oclc.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://validator.unapi.info",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.textualize.com/unapi",
+        "status": "skipped"
+      },
+      {
+        "url": "http://simile.mit.edu/mail/BrowseList?listName=Dev",
+        "status": "skipped"
+      },
+      {
+        "url": "http://simile.mit.edu/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://simile.mit.edu/repository/RDFizers",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20090920021516/http://www.oclc.org/research/software/oai/harvester2.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.openarchives.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.w3.org/RDF/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://cogprints.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://jena.sourceforge.net/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://maven.apache.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://maven.apache.org/download.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.rubygems.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070729055327/http://svn.techno-weenie.net/projects/plugins/gems/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://follett.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/gp/browse.html/104-4592833-0688700?node=13753131",
+        "status": "skipped"
+      },
+      {
+        "url": "http://aws.amazon.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20090525091637/http://www.nabble.com:80/w3.org---www-tag-f11733.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ietf.org/rfc/rfc4452.txt",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.inkdroid.org/journal/2006/05/16/info-uris-and-opening-up-library-data/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ruby-doc.org/stdlib/libdoc/net/http/rdoc/index.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://lccn.info",
+        "status": "skipped"
+      },
+      {
+        "url": "http://oclcnum.info",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070609175343/http://www.msnbc.msn.com:80/id/7245228/site/newsweek/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20120619234105/http://bop.nppa.org:80/2006/still_photography/winners/INS/63710/124345.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://fedora.info",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.inkdroid.org/journal/2006/04/25/fedorasoap-and-ruby/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Facade_pattern",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.martinfowler.com/bliki/DomainSpecificLanguage.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.artima.com/rubycs/articles/ruby_as_dsl.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://msc.mellon.org/Meetings/Interop/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://public.lanl.gov/herbertv/papers/pathways_core_poster_submit.pdf",
+        "status": "skipped"
+      },
+      {
+        "url": "http://lxming.blogspot.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://bitworking.org/projects/atom/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.jcp.org/en/jsr/detail?id=170",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.librarywebchic.net/wordpress/2006/07/01/on-being-the-library-web-chic/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dewey.library.nd.edu/mailing-lists/code4lib/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://lists.gatech.edu/sympa/info/code4libcon",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.nytimes.com/2006/06/27/us/27king.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20120304165945/http://www.jcdl.org/awards.shtml",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.xml.com/pub/a/2006/01/04/creating-xml-with-ruby-and-builder.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.inkdroid.org/journal/2006/06/13/oai-pmh-tut/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://arxiv.org/abs/cs.DL/0501080",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.cs.cornell.edu/wya/papers/JCDL-2006.doc",
+        "status": "skipped"
+      },
+      {
+        "url": "http://archive-access.sourceforge.net/projects/nutch/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.archive.org/web/researcher/ArcFileFormat.php",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.911digitalarchive.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://jcdl2006.org/program/sessions/named-entities-1/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Graph_theory",
+        "status": "skipped"
+      },
+      {
+        "url": "http://eprints.ecs.soton.ac.uk/12704/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070702003636/http://oai-best.comm.nsdl.org:80/cgi-bin/wiki.pl?",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.cs.cornell.edu/people/simeon/software/utf8conditioner/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dlib.org/dlib/december04/vandesompel/12vandesompel.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://msc.mellon.org/Meetings/Interop/presentations",
+        "status": "skipped"
+      },
+      {
+        "url": "http://jcdl2006.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://w3c.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://exist.sf.net",
+        "status": "skipped"
+      },
+      {
+        "url": "http://exist.sourceforge.net",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20090419221752/http://www.exist-db.org:80/webdb.pdf",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/gp/product/0321165810/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://librarycog.uwindsor.ca:8087/artblog/librarycog/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://simile.mit.edu/gadget/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://textualize.com/svn/tilde_bin/xmltree",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.holovaty.com/blog",
+        "status": "skipped"
+      },
+      {
+        "url": "http://chicagocrime.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://lawrence.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://projects.washingtonpost.com/congress/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.holovaty.com/blog/archive/2006/05/15/0110",
+        "status": "skipped"
+      },
+      {
+        "url": "http://scholar.google.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://amazon.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://info-uri.info/registry/register.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/marc/lccn-namespace.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/standards/mads/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/catdir/pcc/naco/personnamefaq.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/gp/product/006251587X",
+        "status": "skipped"
+      },
+      {
+        "url": "http://errol.oclc.org/laf/no99-10609.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oclc.org/research/projects/viaf/default.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dig.csail.mit.edu/breadcrumbs/node/71",
+        "status": "skipped"
+      },
+      {
+        "url": "http://errol.oclc.org/laf/n78-86404.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://errol.oclc.org/laf/n84-156128.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://errol.oclc.org/laf/no96-31850.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://errol.oclc.org/laf/n50-29954.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.iana.org/assignments/uri-schemes.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.iana.org/assignments/urn-namespaces",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.yahoo.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://info-uri.info/registry/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://effbot.org/zone/element-index.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/dist/XML::Writer/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.germane-software.com/software/rexml/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20101208214148/http://www.kieranholland.com:80/code/documentation/nevow-stan/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20061208071320/http://open.bbc.co.uk:80/catalogue/infax/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://mysql.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20061206204544/http://open.bbc.co.uk:80/cataloguemeta/2005/11/about_this_prototype.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://feeds.feedburner.com/hackdiary?m=16",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20071011033934/http://railsconf.org/talks/selected/show/122",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20061114095809/http://railsconf.org:80/talks",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.fedora.info/definitions/1/0/api/Fedora-API-A.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.fedora.info/definitions/1/0/api/Fedora-API-M.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20100819082659/http://dev.ctor.org:80/soap4r",
+        "status": "skipped"
+      },
+      {
+        "url": "http://raa.ruby-lang.org/project/http-access2/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.textualize.com/files/ruby-fedora.tar.gz",
+        "status": "skipped"
+      },
+      {
+        "url": "http://oai.rubyforge.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://openarchives.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://pubmedcentral.gov",
+        "status": "skipped"
+      },
+      {
+        "url": "http://sruby.rubyforge.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/standards/sru",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20100209072034/http://mindview.net:80/WebLog/log-0025",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.google.com/calendar/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://microformats.org/discuss/mail/microformats-discuss/2006-April/thread.html#3661",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.google.com/calendar",
+        "status": "skipped"
+      },
+      {
+        "url": "http://microformats.org/wiki/hcalendar",
+        "status": "skipped"
+      },
+      {
+        "url": "http://radar.oreilly.com/archives/2006/03/etech_ray_ozzie.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20060720020831/http://spaces.msn.com:80/editorial/rayozzie/demo/liveclip/liveclipsample/clipboardexample.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://microformats.org/discuss/mail/microformats-discuss/2006-April/003669.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://b3ta.com/challenge/google/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20071009055221/http://www.niso.org:80/committees/committee_ax.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://gmpg.org/xmdp/description",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/gp/product/1841492299",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070623084839/http://ono.cdlib.org/archives/shimenawa/000219.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080705050657/http://radar.oreilly.com/archives/2006/03/link_list_reading_20_1.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oclc.org/research/projects/frbr/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://microformats.org/discuss/mail/microformats-discuss/2006-March/003287.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://microformats.org/wiki/hcard",
+        "status": "skipped"
+      },
+      {
+        "url": "http://a9.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://opensearch.a9.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.code4lib.org/2006",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20081012074740/http://cavlec.yarinareth.net/archives/2006/03/12/fifty-ways-to-lose-your-techies/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.kevinclarke.info/weblog/archives/56",
+        "status": "skipped"
+      },
+      {
+        "url": "http://swhack.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20090411123446/http://backchannel.stamen.com:80/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://onebiglibrary.net/node/27",
+        "status": "skipped"
+      },
+      {
+        "url": "http://mail.python.org/pipermail/chicago/2006-March/000516.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://mail-archives.apache.org/mod_mbox/lucene-java-user/200603.mbox/%3c4405FBCE.9090506@apache.org%3e",
+        "status": "skipped"
+      },
+      {
+        "url": "http://lists.osafoundation.org/pipermail/pylucene-dev/2006-March/000873.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://flickr.com/photos/66726692@N00/sets/72057594065491946/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://technology.guardian.co.uk/news/story/0,,1716842,00.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.outragedmoderates.org/2006/02/dod-staffers-notes-from-911-obtained.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20090927003157/http://www.usdoj.gov:80/04foia/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://maisonbisson.com/blog/post/11100/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080517164303/http://netapps.muohio.edu/blogs/darcusb/darcusb/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://xbiblio.sourceforge.net/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://svn.sourceforge.net/viewcvs.cgi/xbiblio/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dewey.library.nd.edu/mailing-lists/code4lib/archive/2005/0347.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dewey.library.nd.edu/mailing-lists/code4lib/archive/2005/0356.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dewey.library.nd.edu/mailing-lists/code4lib/archive/2005/0357.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dewey.library.nd.edu/mailing-lists/code4lib/archive/2005/0359.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://cheshire3.sourceforge.net/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oclc.org/research/software/openurl/default.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://cufts.lib.sfu.ca/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.exlibrisgroup.com/sfx.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://oregonstate.edu/~reeset/marcedit/html/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.openly.com/uhf/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://code4lib.org/2006",
+        "status": "skipped"
+      },
+      {
+        "url": "http://planet.code4lib.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dilettantes.code4lib.org/2006/02/11/tagged-in/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://lists.swhack.com/swhack/2006-February/000039.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/gp/product/097669400X",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/gp/product/0471407348",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/gp/product/0120884070",
+        "status": "skipped"
+      },
+      {
+        "url": "http://use.perl.org/~LTjake/journal/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.multiply.org/notebook/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://interoperating.info/mark/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://endlesshybrids.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://ruby.m eetup.com/55/events/4824278/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://vernix.org/marcel/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://37signals.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://manuals.rubyonrails.com/read/book/5",
+        "status": "skipped"
+      },
+      {
+        "url": "http://suda.co.uk/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://suda.co.uk/projects/X2V/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://structuredblogging.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://alcme.oclc.org/openurl/servlet/OAIHandler/extension?verb=GetMetadata&metadataPrefix=mtx&identifier=info:ofi/fmt:kev:mtx:book",
+        "status": "skipped"
+      },
+      {
+        "url": "http://onebiglibrary.net/node/14",
+        "status": "skipped"
+      },
+      {
+        "url": "http://onebiglibrary.net/project/coins/openurl-microformat-for-journals",
+        "status": "skipped"
+      },
+      {
+        "url": "https://inkdroid.org/docs/review-book.xml",
+        "status": "errored",
+        "metadata": {
+          "status": 404,
+          "title": "404 Not Found",
+          "url": "https://inkdroid.org/docs/review-book.xml",
+          "lastModified": ""
+        },
+        "markdown": "# Not Found\n\nThe requested URL was not found on this server.\n\n---\n\nApache/2.4.66 (Debian) Server at inkdroid.org Port 443",
+        "html": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\"><html><head>\n<title>404 Not Found</title>\n</head><body>\n<h1>Not Found</h1>\n<p>The requested URL was not found on this server.</p>\n<hr>\n<address>Apache/2.4.66 (Debian) Server at inkdroid.org Port 443</address>\n\n</body></html>"
+      },
+      {
+        "url": "http://www.cdbaby.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.venturevoice.com/2005/11/vv_show_19_derek_sivers_of_cd.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.code4lib.org/2006/schedule",
+        "status": "skipped"
+      },
+      {
+        "url": "http://inkcow.backpackit.com/pub/354440",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.code4lib.org/2006/voting/start",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dilettantes.blogspot.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://orweblog.oclc.org/archives/000917.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://blog.ianbicking.org/theres-so-much-more-than-rails.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://blogs.law.harvard.edu/ivan/2005/12/20#a42",
+        "status": "skipped"
+      },
+      {
+        "url": "http://blogs.law.harvard.edu/ivan/2005/07/12#a9",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.smallpieces.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dev.rubyonrails.org/browser/trunk",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.pragmaticprogrammer.com/ppbook/index.shtml",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.writing.upenn.edu/~afilreis/88/frost-mending.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.commondreams.org/views05/1227-26.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.nytimes.com/2005/12/21/politics/21nsa.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.schneier.com/blog/archives/2005/12/nsa_and_bushs_i.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.nytimes.com/2005/12/24/politics/24spy.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://historymatters.gmu.edu/d/5057/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.computerbytesman.com/privacy/emailsnooping.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://weblogs.litmusgreen.com/ed/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.aripaparo.com/archive/001456.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://opensearch.a9.com/spec/changelog.jsp",
+        "status": "skipped"
+      },
+      {
+        "url": "http://opensearch.a9.com/spec/1.1/description/#autodiscovery",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/z3950/agency/zing/srw/sru.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.textualize.com/opensearch",
+        "status": "skipped"
+      },
+      {
+        "url": "http://opensearch.a9.com/docs/readers.jsp",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.librarian.net/stax/1572",
+        "status": "skipped"
+      },
+      {
+        "url": "http://scilib.typepad.com/science_library_pad/2005/12/librarians_20_d.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www-128.ibm.com/developerworks/webservices/library/ws-soad1/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.code4lib.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Waterfall_model",
+        "status": "skipped"
+      },
+      {
+        "url": "http://snakesandrubies.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://rubyforge.org/pipermail/chicagogroup-members-list",
+        "status": "skipped"
+      },
+      {
+        "url": "http://selenium.thoughtworks.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://rubyforge.org/pipermail/chicagogroup-members-list/2005-December/000135.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://gmail.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://feedparser.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.holovaty.com/blog/archive/2005/12/05/1513",
+        "status": "skipped"
+      },
+      {
+        "url": "http://projects.washingtonpost.com/congress/rss/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.python.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://projects.washingtonpost.com/congress/members/d000563/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.govtrack.us",
+        "status": "skipped"
+      },
+      {
+        "url": "http://thomas.loc.gov/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080517173534/http://www.govtrack.us/source.xpd",
+        "status": "skipped"
+      },
+      {
+        "url": "https://web.archive.org/web/20060212172955/http://snakesandrubies.com/event",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.rubyonrails.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.lawrence.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20110610010758/http://access2005.library.ualberta.ca:80/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oregonstate.edu",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20060104184731/http://www.code4lib.org:80/proposals",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.hackdiary.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.rubyonrails.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dev.mysql.com/doc/refman/5.0/en/fulltext-search.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20110514072656/http://ferret.davebalmain.com/trac",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.nytimes.com/2005/11/12/opinion/12dalai.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/exec/obidos/tg/detail/-/076792066X",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.mozilla.org/blue-sky/misc/199805/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/exec/obidos/tg/detail/-/0262693267/qid=1131890069/sr=8-2/ref=pd_bbs_2/102-2855265-7932924",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/Spime",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20110629073810/http://www.boingboing.net:80/images/blobjects.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.jdom.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://del.icio.us/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.unalog.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080716061301/http://unalog.com:80/about/search",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.masonhq.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20071011170242/http://blog.del.icio.us:80/blog/2005/11/find_the_url_of.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20081025142021/http://www.hackdiary.com:80/archives/000071.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080531162547/http://access2005.library.ualberta.ca:80/hackfest.php",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080517040408/http://access2005.library.ualberta.ca:80/presentations/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20071018163909/http://access2005.library.ualberta.ca:80/planetaccess/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.thoughtworks.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20060505062043/http://ruby.meetup.com/55/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080516072711/http://blog.objo.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://conio.net/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20130113064310/http://www.vernix.org/marcel/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.37signals.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080708185736/http://prototype.conio.net/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://wiseheartdesign.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20081118135651/http://www.tjameswhite.com/blog/archives/2005/11/citation-microformat/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://microformats.org/discuss/mail/microformats-discuss/2005-November/001813.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://microformats.org/wiki/cite",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.galegroup.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.follettebooks.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://lesscode.org/2005/10/21/baby-steps-to-synergistic-web-apps/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://lesscode.org/2005/11/02/half-a-baby-step/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070204041210/http://cipolo.med.yale.edu:80/mailman/listinfo/gcs-pcs-list",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.citeulike.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://hublog.hubmed.org/archives/001163.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://law.wlu.edu/library/CLJC/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://microformats.org/discuss/mail/microformats-discuss/2005-August/000653.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20060928101302/http://www.niso.org/standards/resources/z3980-3.pdf",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.refworks.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://lucene.apache.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://issues.apache.org/jira/browse/LUCENE-454",
+        "status": "skipped"
+      },
+      {
+        "url": "http://ruby-zoom.rubyforge.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://mail.pm.org/pipermail/chicago-talk/2005-October/002532.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://rpc.geocoder.us/service/rest?address=1340%20Ridgeview%20Drive%20McHenry%2C%20Illinois%2060050",
+        "status": "skipped"
+      },
+      {
+        "url": "http://rpc.geocoder.us/service/csv?address=1340%20Ridgeview%20Drive%20McHenry%2C%20Illinois%2060050",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/dist/Geo-Coder-US/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oclc.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.amazon.com/exec/obidos/tg/detail/-/0060958324",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.kevinclarke.info/weblog/2005/05/02/the-practice-of-cataloging/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.literateprogramming.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.dreamsongs.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.paulgraham.com/hp.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080724005305/http://endlesshybrids.com/2005/09/21/research-tools-enter-the-blogosphere/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://arxiv.org/help/trackback/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.sixapart.com/pronet/docs/trackback_spec",
+        "status": "skipped"
+      },
+      {
+        "url": "http://arxiv.org/abs/cs.DL/0503016",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.tantek.com/presentations/2004etech/realworldsemanticspres.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://del.icio.us/doc/feeds/json/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/dist/XML-RSS-JavaScript",
+        "status": "skipped"
+      },
+      {
+        "url": "https://sourceforge.net/projects/json-py/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://rubyforge.org/snippet/detail.php?type=snippet&id=29",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.inkdroid.org:7000/textualize/browser/ruby-marc/trunk/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20111122231134/http://open-ils.org/blog/?p=31",
+        "status": "skipped"
+      },
+      {
+        "url": "http://open-ils.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20100601162705/http://archives.gov/era/acquisition/option-award.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.groklaw.net/article.php?story=20050831202118904",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/OpenDocument",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070125232957/http://www.microsoft.com:80/office/xml/default.mspx",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.dwheeler.com/essays/why-opendocument-won.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20060203143300/http://www.microsoft.com:80/mscorp/ip/format/xmlpatentlicense.asp",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.gnu.org/licenses/licenses.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070814015719/http://netapps.muohio.edu:80/blogs/darcusb/darcusb/archives/2005/09/03/win-for-opendocument",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.theonion.com/content/node/40076",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.pbs.org/cringely/pulpit/pulpit20050825.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.psychologynet.org/dsm.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.loc.gov/z3950/agency/zing/srw/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://opensearch.a9.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://listserv.loc.gov/cgi-bin/wa?A2=ind0506&L=zng&T=0&F=&S=&P=6898",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20100115140731/http://lists.webjunction.org:80/wjlists/web4lib/2005-July/thread.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://dilettantes.blogspot.com/2005/08/librarians-are-arrogant-asses.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/dist/SRU",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/dist/CQL-Parser",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ockham.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://blog.a9.com/blog/2005/07/27/opensearch-11-preview/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080517174900/http://www.adambosworth.net/archives/000031.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oclc.org/worldcat/open/isbnissnlinking/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://worldcatlibraries.org/wcpa/isbn/0670032506&loc=60014",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.williamsburger.com/wb/archives/opensearch-v-1-0",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.inkdroid.org/journal/os-query?s=code4lib",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20110726164412/http://open-ils.org/blog/?p=34",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.venganza.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.venganza.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20061212134150/https://www.eff.org//Privacy/Surveillance/CALEA/FCC_voip_wiretaps.pdf",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20081201090832/http://www.totse.com/en/privacy/encryption/des_prob.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080706013823/http://www.eff.org/news/archives/2005_08.php",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20050404011108/http://chipy.org:80/sprint.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://wiki.python.org/moin/PyPiXmlRpc",
+        "status": "skipped"
+      },
+      {
+        "url": "http://mathforum.org/dr.math/faq/faq.pascal.triangle.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.chipy.org/bookclub.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080723215313/http://www2.info.ucl.ac.be/people/PVR/book.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20090407061429/http://www.ulb.ac.be:80/di/rwuyts/INFO020_2003/vanRoyHaridi2003-book.pdf",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.mozart-oz.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20081120181130/http://lonelylion.com/mailman/listinfo/bookclub",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20111008014054/http://use.perl.org:80/~LTjake/journal/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20060924104603/http://search.cpan.org/dist/SRU/lib/Catalyst/Plugin/SRU.pm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/dist/SRU/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/dist/Catalyst/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/dist/CQL-Parser/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/dist/OAI-Harvester",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20110215085610/http://www.holovaty.com/images/2005-06-18_tribune_article.jpg",
+        "status": "skipped"
+      },
+      {
+        "url": "http://chipy.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.google.com/apis/maps/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20061012034456/http://www.inkdroid.org/google.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://groups-beta.google.com/group/Google-Maps-API/browse_thread/thread/a70d545eeed46d40/c7e8b0ad540232ae#c7e8b0ad540232ae",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.firewire.org/downloads/dashboard/blogs_forums/wordpressdash.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://weblog.lonelylion.com/?p=512",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.python.org/pycon/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20050707011548/http://www.cnn.com:80/2005/TECH/internet/06/09/google.map.hacks.ap/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.chicagocrime.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.holovaty.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ogdex.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://groups.yahoo.com/group/govtrack/message/138",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ogdex.com/warehouse/space/Wish+List",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20060220120807/http://www.govtrack.us:80/dev/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.chipy.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://husk.org/pics/x/trips/yapc_eu_paris_2003-07/people_and_places/mjd_and_lighting_talk_gong.jpg",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.inkdroid.org/talks/pylucene",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.scripps.edu/~cdputnam/software/bibutils/bibutils.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://en.wikipedia.org/wiki/BibTeX",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.endnote.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.refman.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.isinet.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20050827220707/http://wiki.inkdroid.org:80/code4lib/pybibutils",
+        "status": "skipped"
+      },
+      {
+        "url": "http://wiki.inkdroid.org/code4lib",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.sf.net/projects/marcpm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://rt.cpan.org/NoAuth/Bug.html?id=3707",
+        "status": "skipped"
+      },
+      {
+        "url": "http://outgoing.typepad.com/outgoing/2005/05/_of_records_in_.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oclc.org/worldcat/grow.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://effbot.org/zone/element-tidylib.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "https://inkdroid.org/tag/oclc-worldcat",
+        "status": "completed",
+        "metadata": {
+          "status": 200,
+          "title": "inkdroid",
+          "url": "https://inkdroid.org/tag/oclc-worldcat/",
+          "lastModified": "Sun, 08 Mar 2026 05:01:00 GMT"
+        },
+        "markdown": "* [\ud83c\udfe1](/)\n* [\u2753](https://inkdroid.org/tag/oclc-worldcat/about/)\n* [\ud83c\udff7\ufe0f](https://inkdroid.org/tag/oclc-worldcat/tags/)\n* [\ud83d\udcf8](https://www.flickr.com/photos/inkdroid)\n* [\ud83e\uddd1\u200d\ud83d\udcbb](https://github.com/edsu)\n* [\ud83d\udc65](https://merveilles.town/@ink)\n* [\ud83d\udcac](https://inkdroid.org/tag/oclc-worldcat/talks/)\n* [\u2709\ufe0f](mailto:ehs@pobox.com)\n* [\ud83d\udcbc](https://inkdroid.org/tag/oclc-worldcat/ehs/)\n* [\ud83c\udfa7](https://inkdroid.org/tag/oclc-worldcat/podcasts/feed.opml)\n* [\ud83d\udc9a](https://inkdroid.org/tag/oclc-worldcat/support/)\n* [![Feed](https://inkdroid.org/tag/oclc-worldcat/images/feed.png)](/feed.xml)\n\n## oclc-worldcat\n\n* May 16, 2005  \n[one billion](https://inkdroid.org/tag/oclc-worldcat/2005/05/16/oclc/)\n\n Unless otherwise noted all the content here is licensed [CC-BY](https://creativecommons.org/licenses/by/4.0/) ",
+        "html": "<!DOCTYPE html><html xmlns:og=\"http://opengraphprotocol.org/schema/\"><head>\n  <meta charset=\"utf-8\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"fediverse:creator\" content=\"@ed@digipres.club\">\n\n  <title>inkdroid</title>\n  \n  \n  \n  <link rel=\"stylesheet\" href=\"/css/main.css\">\n  <link rel=\"stylesheet\" href=\"/css/highlight.css\">\n  <link rel=\"stylesheet\" href=\"/css/webmention.css\">\n  <link rel=\"canonical\" href=\"https://inkdroid.org/tag/oclc-worldcat/\">\n  <link rel=\"alternate\" type=\"application/rss+xml\" title=\"inkdroid\" href=\"https://inkdroid.org/feed.xml\">\n  <link rel=\"pingback\" href=\"https://webmention.io/inkdroid.org/xmlrpc\">\n  <link rel=\"webmention\" href=\"https://webmention.io/inkdroid.org/webmention\">\n  <link rel=\"me\" href=\"https://merveilles.town/@ink\">\n  <link rel=\"me\" href=\"https://digipres.club/@ed\">\n  <script async=\"\" src=\"/js/webmention.min.js\" data-page-url=\"https://inkdroid.org/tag/oclc-worldcat/\"></script>\n  <script defer=\"\" data-domain=\"inkdroid.org\" src=\"https://plausible.io/js/plausible.js\"></script>\n</head>\n\n\n  <body>\n\n    <nav id=\"page-header\" class=\"navbar navbar-expand-lg\" role=\"navigation\">\n  <div class=\"container-fluid\">\n    <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse-menu\" aria-controls=\"#collapse-menu\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n      <span class=\"navbar-toggler-icon\"></span>\n    </button>\n    <div class=\"collapse navbar-collapse justify-content-center\" id=\"collapse-menu\">\n      <ul class=\"navbar-nav mb-2 mb-lg-0\">\n        <li title=\"Go back home!\" class=\"nav-item\"><a class=\"nav-link\" href=\"/\">\ud83c\udfe1</a></li>\n        <li title=\"About this website\" class=\"nav-item\"><a class=\"nav-link\" href=\"/about/\">\u2753</a></li>\n        <li title=\"Tags used on this website\" class=\"nav-item\"><a class=\"nav-link\" href=\"/tags/\">\ud83c\udff7\ufe0f</a></li>\n        <li title=\"Photos at Flickr\" class=\"nav-item\"><a class=\"nav-link\" rel=\"me\" href=\"https://www.flickr.com/photos/inkdroid\">\ud83d\udcf8</a></li>\n        <li title=\"Github profile\" class=\"nav-item\"><a class=\"nav-link\" rel=\"me\" href=\"https://github.com/edsu\">\ud83e\uddd1\u200d\ud83d\udcbb</a></li>\n        <li title=\"Mastodon marveiles.town\" class=\"nav-item\"><a class=\"nav-link\" rel=\"me\" href=\"https://merveilles.town/@ink\">\ud83d\udc65</a></li>\n        <li title=\"Professional talks\" class=\"nav-item\"><a class=\"nav-link\" href=\"/talks/\">\ud83d\udcac</a></li>\n        <li title=\"Email address\" class=\"nav-item\"><a class=\"nav-link\" href=\"mailto:ehs@pobox.com\">\u2709\ufe0f</a></li>\n        <li title=\"CV\" class=\"nav-item\"><a class=\"nav-link\" href=\"/ehs/\">\ud83d\udcbc</a></li>\n        <li title=\"Podcasts\" class=\"nav-item\"><a class=\"nav-link\" href=\"/podcasts/feed.opml\">\ud83c\udfa7</a></li>\n        <li title=\"Support\" class=\"nav-item\"><a class=\"nav-link\" href=\"/support/\">\ud83d\udc9a</a></li>\n        <li title=\"RSS Feed\" class=\"nav-item\"><a class=\"nav-link\" rel=\"alternate\" href=\"/feed.xml\"><img height=\"20\" alt=\"Feed\" src=\"/images/feed.png\"></a>\n      </li></ul>\n    </div>\n  </div>\n</nav>\n\n\n    <div id=\"page-content\" class=\"container\">\n      <div class=\"col-md-8 offset-md-2\">\n        <header class=\"post-header\">\n  <h2 class=\"post-title\">oclc-worldcat</h2>\n</header>\n\n<ul class=\"post-list\">\n  \n    <li>\n      <span class=\"post-meta\">May 16, 2005</span>\n      <br>\n      <a class=\"post-link\" href=\"/2005/05/16/oclc/\">one billion</a>\n    </li>\n  \n</ul>\n\n      </div>\n    </div>\n\n    <footer id=\"page-footer\">\n  <div class=\"container-fluid\">\n  <p class=\"text-center\">\n    Unless otherwise noted all the content here is licensed <a rel=\"license\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY</a>\n  </p>\n  <script src=\"/js/jquery.min.js\"></script>\n  <script src=\"/js/bootstrap.min.js\"></script>\n  <script src=\"/js/highlight.min.js\"></script>\n  <script src=\"/js/welcome.min.js\"></script>\n  <script>\n    hljs.initHighlightingOnLoad();\n  </script>\n  </div>\n</footer>\n\n\n  \n\n\n</body></html>"
+      },
+      {
+        "url": "http://c2.com/cgi/wiki?XpCodeSprint",
+        "status": "skipped"
+      },
+      {
+        "url": "http://gondolin.hist.liv.ac.uk/~cheshire/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.chipublib.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.chipublib.org/002branches/lincoln/lincoln.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20101127052904/http://brianray.chipy.org:80/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/dist/MARC-Detrans",
+        "status": "skipped"
+      },
+      {
+        "url": "http://nylink.suny.edu/amtg05.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://jakarta.apache.org/tomcat/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://jrat.sourceforge.net/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://jakarta.apache.org/bcel/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.stresscafe.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.jroller.com/page/bdaug",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.yourkit.com",
+        "status": "skipped"
+      },
+      {
+        "url": "https://inkdroid.org/images/your_kit.jpg",
+        "status": "completed",
+        "metadata": {
+          "status": 200,
+          "title": "your_kit.jpg (744\u00d7383)",
+          "url": "https://inkdroid.org/images/your_kit.jpg",
+          "lastModified": "Sun, 08 Mar 2026 05:00:57 GMT"
+        },
+        "html": "<html style=\"height: 100%;\"><head><meta name=\"viewport\" content=\"width=device-width, minimum-scale=0.1\"><title>your_kit.jpg (744\u00d7383)</title></head><body style=\"margin: 0px; height: 100%; background-color: rgb(14, 14, 14);\"><img style=\"display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;\" src=\"https://inkdroid.org/images/your_kit.jpg\"></body></html>",
+        "markdown": "![](https://inkdroid.org/images/your_kit.jpg)"
+      },
+      {
+        "url": "http://web.archive.org/web/20080521042856/http://library.tamu.edu:80/portal/site/Library",
+        "status": "skipped"
+      },
+      {
+        "url": "http://search.cpan.org/dist/MARC-Record",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.oclc.org/worldcat/default.htm",
+        "status": "skipped"
+      },
+      {
+        "url": "http://groups-beta.google.com/group/perl.unicode/browse_frm/thread/87bc31c03bbaa305/5fcbeb78c003164e?q=ed+summers&rnum=2#5fcbeb78c003164e",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20070527073140/http://curtis.med.yale.edu:80/dchud/log",
+        "status": "skipped"
+      },
+      {
+        "url": "http://alcme.oclc.org/eprintsUK/index.html",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.infobot.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://supybot.com",
+        "status": "skipped"
+      },
+      {
+        "url": "https://inkdroid.org/code/tools/naf",
+        "status": "errored",
+        "metadata": {
+          "status": 404,
+          "title": "404 Not Found",
+          "url": "https://inkdroid.org/code/tools/naf",
+          "lastModified": ""
+        },
+        "html": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\"><html><head>\n<title>404 Not Found</title>\n</head><body>\n<h1>Not Found</h1>\n<p>The requested URL was not found on this server.</p>\n<hr>\n<address>Apache/2.4.66 (Debian) Server at inkdroid.org Port 443</address>\n\n</body></html>",
+        "markdown": "# Not Found\n\nThe requested URL was not found on this server.\n\n---\n\nApache/2.4.66 (Debian) Server at inkdroid.org Port 443"
+      },
+      {
+        "url": "http://www.ietf.org/rfc/rfc2397",
+        "status": "skipped"
+      },
+      {
+        "url": "http://bitworking.org/news/Sparklines_in_data_URIs_in_Python",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.dyn-web.com/dhtml/iframes/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20080907174711/http://www.adaptivepath.com/publications/essays/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.inkdroid.org/perl/b",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20050930004259/http://curtis.med.yale.edu:80/code4lib/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.bloglines.com",
+        "status": "skipped"
+      },
+      {
+        "url": "http://web.archive.org/web/20090206085517/http://www.tedpearson.com:80/blog/?page_id=778",
+        "status": "skipped"
+      },
+      {
+        "url": "https://{@htmlUrl}",
+        "status": "skipped"
+      },
+      {
+        "url": "https://www.whitehouse.gov/",
+        "status": "skipped"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+This is a simplistic Python utility that will use [Cloudflare's Crawl API] to
+crawl a website, and then fetch the results to the filesystem once the job is
+completed.
+
+You run it like so:
+
+   uvx crowdflare_crawl crawl https://example.com
+
+Note: you will need to set these in your environment or in a `.env` file for 
+the program to work:
+
+- CLOUDFRONT_TOKEN
+- CLOUDFRONT_ACCOUNT_ID
+
+In order to create a token you will need to go to the Cloudfront dashboard and
+create a token that has the `Browser Rendering:Edit` permission.
+
+[Cloudflare's Crawl API]: https://developers.cloudflare.com/browser-rendering/rest-api/crawl-endpoint/

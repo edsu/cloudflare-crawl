@@ -1,0 +1,214 @@
+{
+  "success": true,
+  "result": {
+    "id": "36f80f5e-d112-4506-8457-89719a158ce2",
+    "status": "completed",
+    "browserSecondsUsed": 1382.8220786132817,
+    "total": 1967,
+    "finished": 1967,
+    "skipped": 6862,
+    "cursor": 198,
+    "records": [
+      {
+        "url": "https://2022.code4lib.org/talks/Web-archives-in-digital-repositories-Simple-integration-and-reducing-software-maintenance-footprint",
+        "status": "skipped"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=dtd5Os5t0Io&t=1513s",
+        "status": "skipped"
+      },
+      {
+        "url": "https://www.resaw2021.net/programme/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://stsinfrastructures.org/content/knowing-infrastructure",
+        "status": "skipped"
+      },
+      {
+        "url": "https://mappingthehow.wordpress.com/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://web.archive.org/web/20190618073612/http://thewebthatwas.net/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://edsu.github.io/always-already-social/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=VjI2WL6eZpY&list=PLQk4S7xp9SuZBFOU9sHbTMQpJXFtbSI1H&index=6&t=2639s",
+        "status": "skipped"
+      },
+      {
+        "url": "https://www.lib.umd.edu/rc/big-data",
+        "status": "skipped"
+      },
+      {
+        "url": "https://edsu.github.io/vine-tweets-slides/#/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://www.historyoftechnology.org/annual-meeting/2017-shot-annual-meeting-26-29-october-philadelphia/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://edsu.github.io/appraisal-talk/#/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://aeri2017.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://rrchnm.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://edsu.github.io/under-surveillance/#/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://cscw.acm.org/2017/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://arxiv.org/abs/1611.02493v1",
+        "status": "skipped"
+      },
+      {
+        "url": "http://edsu.github.io/bots-seeds-people/#/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.kent.edu/aeri2016",
+        "status": "skipped"
+      },
+      {
+        "url": "https://edsu.github.io/docnow-bricolage/#/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.lib.umich.edu/webarchivesconference",
+        "status": "skipped"
+      },
+      {
+        "url": "http://inkdroid.org/2015/11/12/data-first/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://edsu.github.io/ferguson-tweet-viewer/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://inkdroid.org/2015/10/09/white-dudes-giving-speeches/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://edsu.github.io/marac-slides/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://hackandtell.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://edsu.github.io/congressedits-slides/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ndf.org.nz/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://inkdroid.org/journal/2013/11/26/the-web-as-a-preservation-medium/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://edsu.github.io/webpresmed/#/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=HpJgX8a9d3I",
+        "status": "skipped"
+      },
+      {
+        "url": "http://mith.umd.edu/podcasts/ed-summers-linking-things-on-the-web-a-pragmatic-examination-of-linked-data/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://docs.google.com/presentation/d/1XssMWh5yOIqr9O31usHKO3whX2VtyBt3cXETK1NeLh4/edit?usp=sharing",
+        "status": "skipped"
+      },
+      {
+        "url": "http://inkdroid.org/talks/LinkingThingsOnTheWeb.pdf",
+        "status": "skipped"
+      },
+      {
+        "url": "http://wikimania2012.wikimedia.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://inkdroid.org/journal/2012/07/11/wikimania/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://docs.google.com/presentation/d/1O3WmtCCiB7LWXRNerC4TQzg6g-MR5wqC0XpedG0qm84/edit",
+        "status": "skipped"
+      },
+      {
+        "url": "http://commons.wikimedia.org/w/index.php?title=File:Wikistream.pdf",
+        "status": "skipped"
+      },
+      {
+        "url": "https://docs.google.com/present/view?id=dv89m3d_512fd83d9c5",
+        "status": "skipped"
+      },
+      {
+        "url": "http://ten.wikipedia.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "https://docs.google.com/present/view?id=dv89m3d_497c98tp7g5",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.ala.org",
+        "status": "skipped"
+      },
+      {
+        "url": "http://docs.google.com/present/edit?id=0AU6uboYXcJbBZHY4OW0zZF80MDZnNGtoMzRreA",
+        "status": "skipped"
+      },
+      {
+        "url": "http://www.swib09.de/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://youtu.be/9C7vf7RKvlg",
+        "status": "skipped"
+      },
+      {
+        "url": "http://nyla.org/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://semweb.meetup.com/25/calendar/9882537/",
+        "status": "skipped"
+      },
+      {
+        "url": "http://code4lib.org/2009",
+        "status": "skipped"
+      },
+      {
+        "url": "http://arxiv.org/abs/0805.2855",
+        "status": "skipped"
+      },
+      {
+        "url": "http://code4lib.org/2007/summers",
+        "status": "skipped"
+      }
+    ]
+  }
+}
