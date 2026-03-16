@@ -326,7 +326,7 @@
     },
     {
       "id": "Rwcg",
-      "code_hash": "1d863ebbde7d4456d3171fa2d27fb0a4",
+      "code_hash": "8d41c3d7de8e2ab9fb68c050af53a0bc",
       "outputs": [
         {
           "type": "data",
@@ -339,10 +339,36 @@
         {
           "type": "stream",
           "name": "stdout",
-          "text": "https://inkdroid.org/talks/lcsh-skos/\nhttps://inkdroid.org/2021/05/11/python-for-somebody/\nhttps://inkdroid.org/talks/notredame/oop.html\nhttps://inkdroid.org/talks/soap/soap.html\nhttps://inkdroid.org/talks/soap/googlerequest.html\nhttps://inkdroid.org/talks/soap/response.html\nhttps://inkdroid.org/talks/notredame/refactor.html\nhttps://inkdroid.org/2026/03/07/subject-predicate-object/\nhttps://inkdroid.org/talks/notredame/tables.html\nhttps://inkdroid.org/talks/soap/solution.html\nhttps://inkdroid.org/talks/notredame/template.html\nhttps://inkdroid.org/talks/soap/rpc.html\nhttps://inkdroid.org/talks/soap/cgi.html\nhttps://inkdroid.org/images/c4l09/\nhttps://inkdroid.org/pages/openalex-domains.html\nhttps://inkdroid.org/talks/notredame/calls.html\nhttps://inkdroid.org/talks/soap/more.html\nhttps://inkdroid.org/talks/notredame/why.html\nhttps://inkdroid.org/talks/soap/client.html\nhttps://inkdroid.org/talks/notredame/where.html\nhttps://inkdroid.org/pages/etudier.html\nhttps://inkdroid.org/talks/app/\nhttps://inkdroid.org/talks/searchcampdc/\nhttps://inkdroid.org/talks/soap/googleresponse.html\nhttps://inkdroid.org/talks/soap/\nhttps://inkdroid.org/talks/soap/problem.html\nhttps://inkdroid.org/pages/replies/\nhttps://inkdroid.org/tag/tl;dr/\nhttps://inkdroid.org/talks/notredame/second.html\nhttps://inkdroid.org/talks/soap/googling.html\nhttps://inkdroid.org/talks/notredame/plan.html\nhttps://inkdroid.org/chloe/cookies.html\nhttps://inkdroid.org/software/\nhttps://inkdroid.org/talks/soap/request.html\nhttps://inkdroid.org/pages/etudier-large.html\nhttps://inkdroid.org/dropbox/toot.html\nhttps://inkdroid.org/talks/soap/xmlrpc.html\nhttps://inkdroid.org/talks/soap/dump.html\nhttps://inkdroid.org/talks/soap/googleclient.html\nhttps://inkdroid.org/talks/notredame/missing.html\nhttps://inkdroid.org/talks/app/ui/python/README.html\nhttps://inkdroid.org/talks/pylucene/pylucene.html\nhttps://inkdroid.org/talks/notredame/subs.html\nhttps://inkdroid.org/2026/03/12/howto/\nhttps://inkdroid.org/tag/stephen-wolfram;-wolfram-alpha;-repositories;-data;-web/\nhttps://inkdroid.org/talks/notredame/usage.html\nhttps://inkdroid.org/talks/notredame/steps.html\nhttps://inkdroid.org/talks/soap/googledump.html\nhttps://inkdroid.org/2026/03/05/entering-the-city/\nhttps://inkdroid.org/pages/purl-status-codes.html\nhttps://inkdroid.org/talks/soap/modperl.html\nhttps://inkdroid.org/2026/03/15/bookmarks/\n",
+          "text": "https://inkdroid.org/talks/lcsh-skos/\nhttps://inkdroid.org/2021/05/11/python-for-somebody/\nhttps://inkdroid.org/talks/notredame/oop.html\nhttps://inkdroid.org/talks/soap/soap.html\nhttps://inkdroid.org/talks/soap/googlerequest.html\nhttps://inkdroid.org/talks/soap/response.html\nhttps://inkdroid.org/talks/notredame/refactor.html\nhttps://inkdroid.org/2026/03/07/subject-predicate-object/\nhttps://inkdroid.org/talks/notredame/tables.html\nhttps://inkdroid.org/talks/soap/solution.html\nhttps://inkdroid.org/2025/02/18/web-datasets/\nhttps://inkdroid.org/talks/notredame/template.html\nhttps://inkdroid.org/talks/soap/rpc.html\nhttps://inkdroid.org/talks/soap/cgi.html\nhttps://inkdroid.org/images/c4l09/\nhttps://inkdroid.org/2026/03/16/crawl/\nhttps://inkdroid.org/pages/openalex-domains.html\nhttps://inkdroid.org/talks/notredame/calls.html\nhttps://inkdroid.org/talks/soap/more.html\nhttps://inkdroid.org/talks/notredame/why.html\nhttps://inkdroid.org/talks/soap/client.html\nhttps://inkdroid.org/2025/01/19/vine/\nhttps://inkdroid.org/talks/notredame/where.html\nhttps://inkdroid.org/pages/etudier.html\nhttps://inkdroid.org/talks/app/\nhttps://inkdroid.org/talks/searchcampdc/\nhttps://inkdroid.org/talks/soap/googleresponse.html\nhttps://inkdroid.org/talks/soap/\nhttps://inkdroid.org/talks/soap/problem.html\nhttps://inkdroid.org/pages/replies/\nhttps://inkdroid.org/tag/tl;dr/\nhttps://inkdroid.org/talks/notredame/second.html\nhttps://inkdroid.org/talks/soap/googling.html\nhttps://inkdroid.org/talks/notredame/plan.html\nhttps://inkdroid.org/chloe/cookies.html\nhttps://inkdroid.org/software/\nhttps://inkdroid.org/talks/soap/request.html\nhttps://inkdroid.org/pages/etudier-large.html\nhttps://inkdroid.org/dropbox/toot.html\nhttps://inkdroid.org/talks/soap/xmlrpc.html\nhttps://inkdroid.org/talks/soap/dump.html\nhttps://inkdroid.org/talks/soap/googleclient.html\nhttps://inkdroid.org/talks/notredame/missing.html\nhttps://inkdroid.org/talks/app/ui/python/README.html\nhttps://inkdroid.org/talks/pylucene/pylucene.html\nhttps://inkdroid.org/talks/notredame/subs.html\nhttps://inkdroid.org/tag/vine/\nhttps://inkdroid.org/2024/04/26/news/\nhttps://inkdroid.org/2026/03/12/howto/\nhttps://inkdroid.org/tag/stephen-wolfram;-wolfram-alpha;-repositories;-data;-web/\nhttps://inkdroid.org/talks/notredame/usage.html\nhttps://inkdroid.org/talks/notredame/steps.html\nhttps://inkdroid.org/talks/soap/googledump.html\nhttps://inkdroid.org/2026/03/05/entering-the-city/\nhttps://inkdroid.org/2025/05/14/nih-reporter/\nhttps://inkdroid.org/pages/purl-status-codes.html\nhttps://inkdroid.org/talks/soap/modperl.html\nhttps://inkdroid.org/2026/03/15/bookmarks/\n",
           "mimetype": "text/plain"
         }
       ]
+    },
+    {
+      "id": "BcPc",
+      "code_hash": "14048590ee98ad599819ce9eaa38be0e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>0.041193181818181816</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "DASw",
+      "code_hash": "6742e5c709f3a981b3f97ff9ca13f8c4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>1947</pre>"
+          }
+        }
+      ],
+      "console": []
     },
     {
       "id": "cmqi",

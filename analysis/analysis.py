@@ -318,13 +318,23 @@ def _(Path, data_dir, get_records, re):
 
     urls_20260313_1650 = set([
         result['url'] 
-        for result in get_records(data_dir / "20260313_1650")
-        if result['status'] == 'completed' # only completed URLs
+        for result in get_records(data_dir / "20260313_1650", status='completed')
     ])
 
     for url in actual_urls - urls_20260313_1650:
         print(url)
     
+    return actual_urls, urls_20260313_1650
+
+
+@app.cell
+def _(actual_urls, urls_20260313_1650):
+    len(actual_urls - urls_20260313_1650) / len(actual_urls)
+    return
+
+
+@app.cell
+def _():
     return
 
 
