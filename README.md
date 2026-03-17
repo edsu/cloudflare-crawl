@@ -4,7 +4,11 @@ completed.
 
 You run it like so:
 
-   uvx crowdflare_crawl crawl https://example.com
+```bash
+uvx crowdflare_crawl crawl https://example.com
+```
+
+I guess if it is useful I could put it on pypi. But there are a lot of options in Cloudflare's API that would probably need command line equivalents.
 
 Note: you will need to set these in your environment or in a `.env` file for 
 the program to work:
