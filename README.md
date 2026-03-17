@@ -1,3 +1,5 @@
+[![CI](https://github.com/edsu/cloudflare-crawl/actions/workflows/ci.yml/badge.svg)](https://github.com/edsu/cloudflare-crawl/actions/workflows/ci.yml)
+
 This is a simplistic Python based  command line utility that will use [Cloudflare's Crawl API] to
 crawl a website, and then fetch the results to the filesystem once the job is completed. It was created to help me test the Cloudflare service, and not to provide access to all the options that the service provides.
 
