@@ -56,7 +56,12 @@ the program to work:
 In order to create a token you will need to go to the Cloudfront dashboard and
 create a token that has the `Browser Rendering:Edit` permission.
 
-The analysis directory contains a Marimo notebook and some data for evaluating the crawling behavior of the service.
+The analysis directory contains a Marimo notebook and some data for evaluating the crawling behavior of the service. You can view it by:
+
+```
+cd analysis
+uv run marimo edit analysis.py
+```
 
 [Cloudflare's Crawl API]: https://developers.cloudflare.com/browser-rendering/rest-api/crawl-endpoint/
 [to help me test]: https://inkdroid.org/2026/03/16/seeing-the-web/
