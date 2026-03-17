@@ -324,28 +324,72 @@ def _(Path, data_dir, get_records, re):
 
     for url in actual_urls - urls_20260313_1650:
         print(url)
-
-    return actual_urls, urls_20260313_1650
-
-
-@app.cell
-def _(actual_urls, urls_20260313_1650):
-    len(actual_urls - urls_20260313_1650) / len(actual_urls)
-    return
-
-
-@app.cell
-def _():
     return
 
 
 @app.cell(hide_code=True)
 def _(mo):
     mo.md(r"""
-    ## HTML
+    ## URL Fetching
 
-    How does the HTML for different pages look?
+    Are all the completed requests actually found in the log? This is important because it tests whether a crawl of the website uses any previously cached content.
     """)
+    return
+
+
+@app.cell
+def _(data_dir, get_records, log_dataframe):
+    def crawled_urls(snapshot_dir):
+        # some of the tag links lack a trailing slash, so lets add that since they get redirected and show up that way in the log
+        urls = [rec['url'] for rec in get_records(snapshot_dir, status='completed')]
+        urls = set([
+            url + "/" if '/tag/' in url and not url.endswith('/')
+            else url
+            for url in urls
+        ])
+    
+        logged_df = log_dataframe(snapshot_dir)
+        if len(logged_df):
+            logged_urls = set(logged_df.url)
+        else:
+            logged_urls = set()
+
+        return urls - logged_urls
+
+    crawled_urls(data_dir / '20260313_1650')
+
+    return (crawled_urls,)
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""
+    So there are just one URL that didn't apppear in the log, and that was because it was a redirect (kind of like the tag URLs that needed to be adjusted).
+    """)
+    return
+
+
+@app.cell
+def _(crawled_urls, data_dir, get_records):
+    def all_crawled_urls():
+        for snapshot_dir in data_dir.iterdir():
+            recs = get_records(snapshot_dir, status='completed')
+            print(f"{snapshot_dir} records={len(list(recs))} ; record urls not crawled {len(crawled_urls(snapshot_dir))}")
+
+    all_crawled_urls()
+    return
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""
+    Assuming my log collection was done correctly it would appear that Cloudflare is using their cache when delivering content. But it's not exactly clear (to me) how.
+    """)
+    return
+
+
+@app.cell
+def _():
     return
 
 
