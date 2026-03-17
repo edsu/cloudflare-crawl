@@ -1,7 +1,7 @@
 [![CI](https://github.com/edsu/cloudflare-crawl/actions/workflows/ci.yml/badge.svg)](https://github.com/edsu/cloudflare-crawl/actions/workflows/ci.yml)
 
 This is a simplistic Python based  command line utility that will use [Cloudflare's Crawl API] to
-crawl a website, and then fetch the results to the filesystem once the job is completed. It was created to help me test the Cloudflare service, and not to provide access to all the options that the service provides.
+crawl a website, and then fetch the results to the filesystem once the job is completed. It was created [to help me test] the Cloudflare service, and not to provide access to all the options that the service provides.
 
 You run it like this, which will create the job, poll till its complete, and then download the data:
 
@@ -57,3 +57,4 @@ In order to create a token you will need to go to the Cloudfront dashboard and
 create a token that has the `Browser Rendering:Edit` permission.
 
 [Cloudflare's Crawl API]: https://developers.cloudflare.com/browser-rendering/rest-api/crawl-endpoint/
+[to help me test]: https://inkdroid.org/2026/03/16/seeing-the-web/
