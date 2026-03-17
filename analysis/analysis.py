@@ -52,12 +52,13 @@ def _(mo):
 
 
 @app.cell
-def _(data_dir, get_records, status):
+def _(data_dir, get_records):
     from collections import Counter
 
     def summarize_records(records):
         urls = set()
-    
+        status = Counter()
+
         for rec in records:
             status[rec["status"]] += 1
             urls.add(rec["url"])
@@ -113,10 +114,10 @@ def _(data_dir):
 
     def log_dataframe(snapshot_dir):
         messages = []
-    
+
         for line in (snapshot_dir / "web.log").open():
             if match := log_pattern.match(line):
-            
+
                 message = dict(
                     zip(
                         ["ip", "datetime", "url", "status", "bytes"],
@@ -127,9 +128,9 @@ def _(data_dir):
                 # parse datetime format: e.g. 12/Mar/2026:13:39:15 +0000
                 message['datetime'] = message['datetime'].replace(' +0000', '')
                 message["datetime"] = datetime.datetime.strptime(message["datetime"], '%d/%b/%Y:%H:%M:%S')
-            
+
                 message["url"] = "https://inkdroid.org" + message["url"]
-            
+
                 messages.append(message)
 
         return pandas.DataFrame(messages)
@@ -278,7 +279,7 @@ def _(data_dir, get_records, pandas, summarize_records):
             summ = summarize_records(get_records(site_dir))
             summ['name'] = site_dir.name
             results.append(summ)
-        
+
         df = pandas.DataFrame(results)
         df = df.sort_values('name')
 
@@ -323,7 +324,7 @@ def _(Path, data_dir, get_records, re):
 
     for url in actual_urls - urls_20260313_1650:
         print(url)
-    
+
     return actual_urls, urls_20260313_1650
 
 
@@ -346,32 +347,6 @@ def _(mo):
     How does the HTML for different pages look?
     """)
     return
-
-
-@app.cell
-def _(data_dir, get_records):
-    import requests
-    import random
-
-    def sample_html():
-        for record in random.sample(list(get_records(data_dir / '20260313_1650', status='completed')), 1):
-            actual_html = requests.get(record['url']).text 
-            print(record['url'])
-            open('a.html', 'w').write(actual_html)
-            open('b.html', 'w').write(record['html'])
-
-    
-    sample_html()
-
-    return
-
-
-app._unparsable_cell(
-    r"""
-    open b
-    """,
-    name="_"
-)
 
 
 if __name__ == "__main__":
