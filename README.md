@@ -3,7 +3,7 @@ crawl a website, and then fetch the results to the filesystem once the job is co
 
 You run it like this, which will create the job, poll till its complete, and then download the data:
 
-```bash
+```text
 uvx https://github.com/edsu/cloudflare-crawl/ crawl https://example.com
 
 created job 36f80f5e-d112-4506-8457-89719a158ce2
