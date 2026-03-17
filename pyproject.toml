@@ -30,4 +30,5 @@ dev = [
     "pandas>=3.0.1",
     "pyarrow>=23.0.1",
     "pydantic-ai-slim>=1.68.0",
+    "ty>=0.0.23",
 ]

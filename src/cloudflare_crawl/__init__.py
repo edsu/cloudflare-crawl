@@ -53,7 +53,7 @@ def crawl(
 
 
 @app.command()
-def status(job_id: str):
+def status(job_id: str) -> None:
     """
     Check the status of a job_id.
     """
@@ -69,14 +69,17 @@ def download(
     download_dir: Annotated[
         Path | None, typer.Option(file_okay=False, dir_okay=True, exists=False)
     ] = None,
-):
+) -> None:
     """
     Download data related to a job_id.
     """
     write_results(job_id, download_dir)
 
 
-def start_crawl(url: str):
+def start_crawl(url: str) -> str:
+    """
+    Starts a crawl job and returns the Job ID.
+    """
     data = {"url": url, "formats": ["html", "markdown"], "limit": 5000}
 
     resp = https.post(
