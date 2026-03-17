@@ -12,14 +12,14 @@ from requests.adapters import HTTPAdapter, Retry
 
 # load environment variables
 dotenv.load_dotenv()
-token = os.environ.get('CLOUDFRONT_TOKEN')
-account_id = os.environ.get('CLOUDFRONT_ACCOUNT_ID')
+token = os.environ.get("CLOUDFRONT_TOKEN")
+account_id = os.environ.get("CLOUDFRONT_ACCOUNT_ID")
 headers = {"Authorization": f"Bearer {token}"}
 
 # set up http client, with retries for 401 which have been observed
 https = requests.Session()
 retries = Retry(total=5, backoff_factor=1, status_forcelist=[401])
-https.mount('https://', HTTPAdapter(max_retries=retries))
+https.mount("https://", HTTPAdapter(max_retries=retries))
 
 # the cli app
 app = typer.Typer()
@@ -29,9 +29,8 @@ app = typer.Typer()
 def crawl(
     url: str,
     download_dir: Annotated[
-        Path | None,
-        typer.Option(file_okay=False, dir_okay=True, exists=False)
-    ] = None
+        Path | None, typer.Option(file_okay=False, dir_okay=True, exists=False)
+    ] = None,
 ) -> None:
     """
     Start a crawl for a website URL, wait for it to be completed and then
@@ -39,7 +38,9 @@ def crawl(
     """
 
     if token is None or account_id is None:
-        print("Please set CLOUDFRONT_ACCOUNT_ID and CLOUDFRONT_TOKEN environment variables")
+        print(
+            "Please set CLOUDFRONT_ACCOUNT_ID and CLOUDFRONT_TOKEN environment variables"
+        )
         return
 
     job_id = start_crawl(url)
@@ -66,27 +67,22 @@ def status(job_id: str):
 def download(
     job_id: str,
     download_dir: Annotated[
-        Path | None,
-        typer.Option(file_okay=False, dir_okay=True, exists=False)
-    ] = None
+        Path | None, typer.Option(file_okay=False, dir_okay=True, exists=False)
+    ] = None,
 ):
     """
     Download data related to a job_id.
     """
-    write_results(job_id, download_dir) 
+    write_results(job_id, download_dir)
 
 
 def start_crawl(url: str):
-    data = {
-        "url": url,
-        "formats": ["html", "markdown"],
-        "limit": 5000
-    }
+    data = {"url": url, "formats": ["html", "markdown"], "limit": 5000}
 
     resp = https.post(
         f"https://api.cloudflare.com/client/v4/accounts/{account_id}/browser-rendering/crawl",
         headers=headers,
-        json=data
+        json=data,
     )
 
     resp.raise_for_status()
@@ -112,7 +108,9 @@ def wait_for_job(job_id: str, sleep_secs=60) -> str:
             total = int(result["result"]["total"])
             finished = int(result["result"]["finished"])
             skipped = int(result["result"]["skipped"])
-            print(f"waiting for {job_id} to complete: total={total} finished={finished} skipped={skipped}")
+            print(
+                f"waiting for {job_id} to complete: total={total} finished={finished} skipped={skipped}"
+            )
             time.sleep(sleep_secs)
 
 
@@ -138,11 +136,11 @@ def write_results(job_id: str, download_dir: Path | None) -> None:
         resp = https.get(
             f"https://api.cloudflare.com/client/v4/accounts/{account_id}/browser-rendering/crawl/{job_id}",
             params=params,
-            headers=headers
+            headers=headers,
         )
 
         resp.raise_for_status()
-        
+
         count += 1
         result = resp.json()
         path = download_dir / f"{job_id}-{count:03}.json"
@@ -163,7 +161,7 @@ def get_job(job_id: str, params={}) -> dict:
     resp = https.get(
         f"https://api.cloudflare.com/client/v4/accounts/{account_id}/browser-rendering/crawl/{job_id}",
         params={"limit": 1},
-        headers=headers
+        headers=headers,
     )
 
     resp.raise_for_status()
