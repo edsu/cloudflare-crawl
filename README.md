@@ -3,7 +3,7 @@
 This is a simplistic Python based  command line utility that will use [Cloudflare's Crawl API] to
 crawl a website, and then fetch the results to the filesystem once the job is completed. It was created [to help me test] the Cloudflare service, and not to provide access to all the options that the service provides.
 
-You run it like this, which will create the job, poll till its complete, and then download the data:
+You run it with [uv], which will create the job, poll till its complete, and then download the data:
 
 ```text
 uvx https://github.com/edsu/cloudflare-crawl/ crawl https://example.com
@@ -65,3 +65,4 @@ uv run marimo edit analysis.py
 
 [Cloudflare's Crawl API]: https://developers.cloudflare.com/browser-rendering/rest-api/crawl-endpoint/
 [to help me test]: https://inkdroid.org/2026/03/16/seeing-the-web/
+[uv]: https://docs.astral.sh/uv/
