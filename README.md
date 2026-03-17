@@ -5,7 +5,7 @@ completed.
 You run it like so:
 
 ```bash
-uvx crowdflare_crawl crawl https://example.com
+uvx https://github.com/edsu/cloudflare-crawl/ crawl https://example.com
 ```
 
 I guess if it is useful I could put it on pypi. But there are a lot of options in Cloudflare's API that would probably need command line equivalents.
